@@ -1,0 +1,6 @@
+{
+  "name": "Happy Wedding Anniversary - Special Gate & Memory",
+  "description": "Sebuah persembahan manis perayaan hari ulang tahun pernikahan dengan kunci tanggal pernikahan, video romantis otomatis, hitungan perjalanan cinta, dan pesan kenangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
